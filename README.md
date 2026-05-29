@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c3b8a733-5f6f-4510-b65b-9a450198f11b
+
 # AutoJJs
 ### Um script de AutoJJs que pode ser usado na maioria do Exércitos Brasileiros.
 > 
